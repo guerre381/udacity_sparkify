@@ -180,7 +180,7 @@ If you want to continue the analysis and get more from the data, your contributi
 ## Acknowledgements
 * [Udacity](https://review.udacity.com/#!/rubrics/2345/view)
 * [IBM cloud](https://cloud.ibm.com/login)
-* [Nadbordrozd blog](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
+* [SHIHAO RAN blog](https://shihaojran.com/distributed-machine-learning-using-pyspark/)
 
 <!-- CONTACT -->
 ## Contact
