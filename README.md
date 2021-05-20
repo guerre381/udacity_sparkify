@@ -110,7 +110,7 @@ Evaluation:
 
 | Attempt | Accuracy | Precision | Recall | F-score | AUC |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Seconds | 0.93 | 0.93 | 0.71  | 0.81 | 0.97 | 
+| Seconds | 0.936 | 0.943 | 0.718  | 0.816 | 0.976 | 
 
 <!-- Content -->
 ## Content
